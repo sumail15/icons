@@ -1,4 +1,9 @@
 {
+  "name": "leetcode",
+  "tags": ["leetcode", "programming", "coding"]
+}
+
+{
   "mode": {
     "symbol": {
       "dest": ".",
