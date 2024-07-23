@@ -32,6 +32,11 @@ export default {
         ]
       }
     },
+    {
+  "name": "leetcode",
+  "tags": ["leetcode", "programming", "coding"]
+}
+
     // Custom plugin which resets the SVG attributes to explicit values
     {
       name: 'explicitAttrs',
